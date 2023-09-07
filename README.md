@@ -136,10 +136,9 @@ Once any problems are fixed, either choose "Go Live" in the bottom right of the 
 
 Make sure that you can see your favicon in the browser tab. Sometimes favicon changes aren't loaded right away, so if you don't see your favicon, first try to _hard reload_ your page to see if that makes them appear.
 
-| 💡 How to hard reload a web page |
-| :------------------------------- |
-
-To force a page reload, on Window, press `Ctrl`-`Shift`-`R`or `Ctrl`-`F5`; on Mac press `⌘`-`⇧`-`R`.
+| 💡 How to hard reload a web page                                                                     |
+| :--------------------------------------------------------------------------------------------------- |
+| To force a page reload, on Window, press `Ctrl`-`Shift`-`R`or `Ctrl`-`F5`; on Mac press `⌘`-`⇧`-`R`. |
 
 If a hard reload doesn't work, check your image paths and make sure your files are in the right location.
 
